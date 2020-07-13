@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey, I'm Avelino! 👋
 
-<!--
-**avelino/avelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[🤓: XXX at @structy](https://github.com/structy/) - _open source culture_ <br>
+🇧🇷 Living in Sao Paulo, Brazil
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[🐨: awesome-go](https://awesome-go.com/) <br>
+[🐘: pREST](https://github.com/prest) <br>
+[📝: vim-bootstrap](https://vim-bootstrap.com) <br>
+[📝: editor-bootstrap](https://github.com/editor-bootstrap) <br>
+[🏸: awesome-racket](https://github.com/avelino/awesome-racket) <br>
+...
+
+### Find me elsewhere 🌎
+
+[🚀: Site](https://avelino.run) <br>
+[📸: Instagram](https://instagram.com/avelinorun) - _Amateur #Triathlete 🏊‍♂️🚴‍♂️🏃‍♂️_ <br>
+[🐦: Twitter](https://twitter.com/avelinorun) <br>
+[💼: LinkedIn](https://www.linkedin.com/in/avelinorun) <br>
+[📫: t AT avelino DOT xxx](mailto:t@avelino.xxx)
