@@ -12,6 +12,8 @@
 [🏸: awesome-racket](https://github.com/avelino/awesome-racket) <br>
 ...
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=avelino)
+
 ### Find me elsewhere 🌎
 
 [🚀: Site](https://avelino.run) <br>
