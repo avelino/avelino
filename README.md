@@ -1,6 +1,6 @@
 ### Hey, I'm Avelino! 👋
 
-[![Sponsor avelino](https://user-images.githubusercontent.com/4967343/89290185-5e893700-d650-11ea-8942-4579b2c96c2c.png)](https://github.com/sponsors/avelino)
+[![Sponsor avelino](https://user-images.githubusercontent.com/31996/90784634-dc4b7480-e2d7-11ea-94b0-48754ff3afb1.png)](https://github.com/sponsors/avelino)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=avelino)](https://github.com/avelino)
 
