@@ -1,7 +1,8 @@
 ### Hey, I'm Avelino! 👋
 
-[🤓: XXX at @structy](https://github.com/structy/) - _open source culture_ <br>
-🇧🇷 Living in Sao Paulo, Brazil
+[![Sponsor avelino](https://user-images.githubusercontent.com/4967343/89290185-5e893700-d650-11ea-8942-4579b2c96c2c.png)](https://github.com/sponsors/avelino)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=avelino)](https://github.com/avelino)
 
 ### What I'm working on 👨‍💻
 
@@ -11,8 +12,6 @@
 [📝: editor-bootstrap](https://github.com/editor-bootstrap) <br>
 [🏸: awesome-racket](https://github.com/avelino/awesome-racket) <br>
 ...
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=avelino)
 
 ### Find me elsewhere 🌎
 
