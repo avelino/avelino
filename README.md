@@ -1,6 +1,6 @@
 ### Hey, I'm Avelino! 👋
 
-Currently working on [pREST](https://github.com/prest/prest) - _simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new_
+Currently working on [_p_**REST**](https://github.com/prest/prest) - _simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new_
 
 [![Sponsor avelino](https://user-images.githubusercontent.com/31996/90784634-dc4b7480-e2d7-11ea-94b0-48754ff3afb1.png)](https://github.com/sponsors/avelino)
 
