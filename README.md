@@ -8,12 +8,13 @@ Currently working on [_p_**REST**](https://github.com/prest/prest) - _simplify a
 
 ### What I'm working on 👨‍💻
 
-[🐨: awesome-go](https://awesome-go.com/) <br>
+[🐨: awesome-go](https://github.com/avelino/awesome-go) <br>
 [🐘: pREST](https://github.com/prest/prest) <br>
 [📝: vim-bootstrap](https://vim-bootstrap.com) <br>
+[🐙: gofn](https://github.com/gofn/gofn) <br>
 [📝: editor-bootstrap](https://github.com/editor-bootstrap) <br>
 [🏸: awesome-racket](https://github.com/avelino/awesome-racket) <br>
-...
+[...](https://github.com/avelino)
 
 ### Find me elsewhere 🌎
 
