@@ -1,6 +1,6 @@
 ### Hey, I'm Avelino! 👋
 
-Chief Strategy Officer at [_p_**REST**](https://github.com/prest/prest)
+Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 
 [![Sponsor avelino](https://user-images.githubusercontent.com/31996/90784634-dc4b7480-e2d7-11ea-94b0-48754ff3afb1.png)](https://github.com/sponsors/avelino)
 
