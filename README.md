@@ -22,6 +22,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Latest Blog Posts 📕
 
 <!-- BLOG:START -->
+- [Kubicast - Episódio 45: Arquitetura de Software, existe algo além dos microsserviços?](https://avelino.run/kubicast-epis%C3%B3dio-45-arquitetura-de-software-existe-algo-al%C3%A9m-dos-microsservi%C3%A7os/)
+- [3 passos importantes para cumprir nosso objetivo e metas](https://avelino.run/quote/3-passos-importantes-para-cumprir-nosso-objetivo-e-metas/)
+- [Usando 5W2H para planejar objetivo (e metas)](https://avelino.run/quote/usando-5w2h-para-planejar-objetivo-e-metas/)
+- [Você tem consciência alimentar?](https://avelino.run/quote/voce-tem-consciencia-alimentar/)
+- [Por que devemos ter objetivo e metas?](https://avelino.run/quote/por-que-devemos-ter-objetivo-e-metas/)
 <!-- BLOG:END -->
 
 ### Find me elsewhere 🌎
