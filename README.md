@@ -1,4 +1,4 @@
-### Hey, I'm Avelino! 👋
+### Hey, I'm Avelino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 
 Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 
@@ -8,12 +8,21 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 
 ### Recent open source contributions 👨‍💻
 
+<!-- GITHUB:START -->
+<!-- GITHUB:END -->
+
+[more ...](https://github.com/avelino) <br>
+
 [🐨: awesome-go](https://github.com/avelino/awesome-go) - _curated list of awesome Go frameworks, libraries and software_<br>
 [🐘: pREST](https://github.com/prest/prest) - _simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new_ <br>
 [📝: vim-bootstrap](https://vim-bootstrap.com) - _generator provides a simple method of generating a .vimrc configuration for vim_<br>
 [🐙: gofn](https://github.com/gofn/gofn) - _function process via docker provider (serverless minimalist)_<br>
-[🏸: awesome-racket](https://github.com/avelino/awesome-racket) - _curated list of awesome Racket frameworks, libraries and software, maintained by Community_<br>
-[...](https://github.com/avelino)
+[🏸: awesome-racket](https://github.com/avelino/awesome-racket) - _curated list of awesome Racket frameworks, libraries and software, maintained by Community_
+
+### Latest Blog Posts 📕
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 ### Find me elsewhere 🌎
 
@@ -22,3 +31,9 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 [🐦: Twitter](https://twitter.com/avelinorun) <br>
 [💼: LinkedIn](https://www.linkedin.com/in/avelinorun) <br>
 [📫: t AT avelino DOT xxx](mailto:t@avelino.xxx)
+
+
+### Unsplash Stats 📷
+
+<!-- UNSPLASH-STATS:START -->
+<!-- UNSPLASH-STATS:END -->
