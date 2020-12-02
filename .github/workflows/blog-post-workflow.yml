@@ -12,14 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Gathering Unsplash stats
-        uses: gabrieluizramos/unsplash-stats-workflow@master
-        with:
-          username: avelino
-          ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
-          SECRET_KEY: ${{ secrets.SECRET_KEY }}
-          template: table
-
       - name: Blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:

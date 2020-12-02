@@ -31,9 +31,3 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 [🐦: Twitter](https://twitter.com/avelinorun) <br>
 [💼: LinkedIn](https://www.linkedin.com/in/avelinorun) <br>
 [📫: t AT avelino DOT xxx](mailto:t@avelino.xxx)
-
-
-### Unsplash Stats 📷
-
-<!-- UNSPLASH-STATS:START -->
-<!-- UNSPLASH-STATS:END -->
