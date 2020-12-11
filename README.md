@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino opened a pull request in prest/prest](https://github.com/prest/prest/pull/481)
+- [avelino created a branch avelino/fixed-auth-middleware-url-match in prest/prest](https://github.com/prest/prest/compare/avelino/fixed-auth-middleware-url-match)
 - [avelino deleted branch avelino/jwt_whitelist_slice at prest/prest](https://github.com/)
 - [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/75e38fd363...d224ca855a)
 - [avelino merged a pull request in prest/prest](https://github.com/prest/prest/pull/479)
-- [avelino opened a pull request in prest/prest](https://github.com/prest/prest/pull/479)
-- [avelino created a branch avelino/jwt_whitelist_slice in prest/prest](https://github.com/prest/prest/compare/avelino/jwt_whitelist_slice)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
