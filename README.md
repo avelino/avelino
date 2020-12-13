@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino opened an issue in avelino/awesome-go](https://github.com/avelino/awesome-go/issues/3399)
 - [avelino commented on pull request avelino/awesome-go#3398](https://github.com/avelino/awesome-go/pull/3398#issuecomment-743898933)
 - [avelino commented on pull request avelino/awesome-go#3397](https://github.com/avelino/awesome-go/pull/3397#issuecomment-743495014)
 - [avelino opened a pull request in prest/prest](https://github.com/prest/prest/pull/482)
 - [avelino created a branch avelino/validate-permission-if-config-does-not-write in prest/prest](https://github.com/prest/prest/compare/avelino/validate-permission-if-config-does-not-write)
-- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/765d5f91f2...b912facdc4)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
