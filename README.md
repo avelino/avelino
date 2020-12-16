@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [avelino commented on pull request avelino/awesome-go#3402](https://github.com/avelino/awesome-go/pull/3402#issuecomment-745428124)
-- [avelino commented on pull request avelino/awesome-go#3401](https://github.com/avelino/awesome-go/pull/3401#issuecomment-745184620)
-- [avelino pushed to avelino/validate-permission-if-config-does-not-write in prest/prest](https://github.com/prest/prest/compare/6f8fc489fd...ddfbc64130)
-- [avelino starred knex/knex](https://github.com/knex/knex)
-- [avelino commented on pull request avelino/awesome-go#3400](https://github.com/avelino/awesome-go/pull/3400#issuecomment-744375291)
+- [avelino commented on pull request prest/prest#483](https://github.com/prest/prest/pull/483#issuecomment-746726470)
+- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/69e861343e...153da6a325)
+- [avelino merged a pull request in prest/prest](https://github.com/prest/prest/pull/483)
+- [avelino deleted branch avelino/validate-permission-if-config-does-not-write at prest/prest](https://github.com/)
+- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/b912facdc4...69e861343e)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
