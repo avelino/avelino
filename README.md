@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [avelino opened an issue in prest/prest](https://github.com/prest/prest/issues/486)
-- [avelino commented on pull request avelino/awesome-go#3421](https://github.com/avelino/awesome-go/pull/3421#issuecomment-752933013)
-- [avelino commented on pull request avelino/awesome-go#3420](https://github.com/avelino/awesome-go/pull/3420#issuecomment-752918849)
-- [avelino commented on pull request avelino/awesome-go#3419](https://github.com/avelino/awesome-go/pull/3419#issuecomment-752477730)
-- [avelino commented on pull request avelino/awesome-go#3418](https://github.com/avelino/awesome-go/pull/3418#issuecomment-752392585)
+- [avelino starred play-with-go/play-with-go](https://github.com/play-with-go/play-with-go)
+- [avelino pushed to avelino/full-text-search in prest/prest](https://github.com/prest/prest/compare/ae36134804...afd759c7a8)
+- [avelino pushed to avelino/full-text-search in prest/prest](https://github.com/prest/prest/compare/3bcf696e61...ae36134804)
+- [avelino opened a pull request in prest/prest](https://github.com/prest/prest/pull/487)
+- [avelino created a branch avelino/full-text-search in prest/prest](https://github.com/prest/prest/compare/avelino/full-text-search)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
