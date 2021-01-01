@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [avelino deleted branch deepsource-fix-2bb37ecd at prest/prest](https://github.com/)
-- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/f80e8c19fc...6aef8fd9b8)
-- [avelino merged a pull request in prest/prest](https://github.com/prest/prest/pull/488)
-- [avelino deleted branch avelino/full-text-search at prest/prest](https://github.com/)
-- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/c34b2a3a29...f80e8c19fc)
+- [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/024a75137d...c65f6a775e)
+- [avelino merged a pull request in avelino/awesome-go](https://github.com/avelino/awesome-go/pull/3420)
+- [avelino deleted branch avelino/docs-query-example-in-table at prest/prest](https://github.com/)
+- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/6aef8fd9b8...48e67ecc6f)
+- [avelino merged a pull request in prest/prest](https://github.com/prest/prest/pull/489)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
