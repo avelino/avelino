@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [avelino commented on pull request avelino/awesome-go#3447](https://github.com/avelino/awesome-go/pull/3447#issuecomment-758876475)
-- [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/5fea0b71a1...8141505c19)
-- [avelino commented on pull request avelino/awesome-go#3446](https://github.com/avelino/awesome-go/pull/3446#issuecomment-758784847)
-- [avelino commented on pull request avelino/awesome-go#3445](https://github.com/avelino/awesome-go/pull/3445#issuecomment-758705338)
-- [avelino starred gleam-lang/gleam](https://github.com/gleam-lang/gleam)
+- [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/e0becee7b9...a4a358ff8a)
+- [avelino merged a pull request in avelino/awesome-go](https://github.com/avelino/awesome-go/pull/3433)
+- [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/208461dfc2...e0becee7b9)
+- [avelino merged a pull request in avelino/awesome-go](https://github.com/avelino/awesome-go/pull/3424)
+- [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/aff27330c3...208461dfc2)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
