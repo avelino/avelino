@@ -33,6 +33,8 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 - [Você tem consciência alimentar?](https://avelino.run/quote/voce-tem-consciencia-alimentar/)
 - [Por que devemos ter objetivo e metas?](https://avelino.run/quote/por-que-devemos-ter-objetivo-e-metas/)
 <!-- BLOG:END -->
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
 
 ### Find me elsewhere 🌎
 
