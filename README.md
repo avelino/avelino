@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino pushed to insertTableNameRegexFix in prest/prest](https://github.com/prest/prest/compare/c48d34cedd...796f1c3d7d)
+- [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/4eaad16000...daf82cf4e7)
+- [avelino merged a pull request in avelino/awesome-go](https://github.com/avelino/awesome-go/pull/3430)
+- [avelino pushed to insertTableNameRegexFix in prest/prest](https://github.com/prest/prest/compare/64f3dc864a...c48d34cedd)
 - [avelino pushed to insertTableNameRegexFix in prest/prest](https://github.com/prest/prest/compare/269720911b...64f3dc864a)
-- [avelino pushed to insertTableNameRegexFix in prest/prest](https://github.com/prest/prest/compare/f52f2ddfe5...269720911b)
-- [avelino opened a pull request in prest/prest](https://github.com/prest/prest/pull/491)
-- [avelino created a branch insertTableNameRegexFix in prest/prest](https://github.com/prest/prest/compare/insertTableNameRegexFix)
-- [avelino pushed to master in avelino/avelino](https://github.com/avelino/avelino/compare/bafa077ef5...1234c406ba)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
