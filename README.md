@@ -34,6 +34,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 - [Por que devemos ter objetivo e metas?](https://avelino.run/quote/por-que-devemos-ter-objetivo-e-metas/)
 <!-- BLOG:END -->
 <!-- DEVTO:START -->
+- [Full Text Search in PostgreSQL](https://dev.to/prestd/full-text-search-in-postgresql-4k6e)
+- [Difference between INSERT and COPY in PostgreSQL](https://dev.to/prestd/difference-between-insert-and-copy-in-postgresql-1ifc)
+- [pREST Celebrating 2,441 GitHub Stars ✨](https://dev.to/prestd/prest-celebrating-2-441-github-stars-9ln)
+- [Behind Open Source projects there are people](https://dev.to/avelino/behind-open-source-projects-there-are-people-hd1)
+- [Alta performance com dieta baseada em plantas](https://dev.to/avelino/alta-performance-com-dieta-baseada-em-plantas-ab3)
 <!-- DEVTO:END -->
 
 ### Find me elsewhere 🌎
