@@ -17,6 +17,11 @@ jobs:
         with:
           comment_tag_name: BLOG
           feed_list: "https://avelino.run/index.xml"
+      - name: dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: DEVTO
+          feed_list: "https://dev.to/feed/avelino"
 
       - name: Github projects contributer
         uses: gautamkrishnar/blog-post-workflow@master
