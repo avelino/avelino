@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino pushed to insertTableNameRegexFix in prest/prest](https://github.com/prest/prest/compare/269720911b...64f3dc864a)
+- [avelino pushed to insertTableNameRegexFix in prest/prest](https://github.com/prest/prest/compare/f52f2ddfe5...269720911b)
+- [avelino opened a pull request in prest/prest](https://github.com/prest/prest/pull/491)
+- [avelino created a branch insertTableNameRegexFix in prest/prest](https://github.com/prest/prest/compare/insertTableNameRegexFix)
 - [avelino pushed to master in avelino/avelino](https://github.com/avelino/avelino/compare/bafa077ef5...1234c406ba)
-- [avelino pushed to master in avelino/avelino](https://github.com/avelino/avelino/compare/5d13be44b9...bafa077ef5)
-- [avelino pushed to master in prest/postgres.rest](https://github.com/prest/postgres.rest/compare/0bebaf1a06...6676f9a218)
-- [avelino pushed to master in prest/postgres.rest](https://github.com/prest/postgres.rest/compare/afa4f8fd79...0bebaf1a06)
-- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/3b69be8807...cc7c500803)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
