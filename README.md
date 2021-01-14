@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/8b6151cea3...4eaad16000)
-- [avelino merged a pull request in avelino/awesome-go](https://github.com/avelino/awesome-go/pull/3401)
-- [avelino commented on pull request avelino/awesome-go#3401](https://github.com/avelino/awesome-go/pull/3401#issuecomment-759783920)
-- [avelino starred leafo/pgmoon](https://github.com/leafo/pgmoon)
-- [avelino starred digitalocean/gta](https://github.com/digitalocean/gta)
+- [avelino pushed to master in avelino/avelino](https://github.com/avelino/avelino/compare/bafa077ef5...1234c406ba)
+- [avelino pushed to master in avelino/avelino](https://github.com/avelino/avelino/compare/5d13be44b9...bafa077ef5)
+- [avelino pushed to master in prest/postgres.rest](https://github.com/prest/postgres.rest/compare/0bebaf1a06...6676f9a218)
+- [avelino pushed to master in prest/postgres.rest](https://github.com/prest/postgres.rest/compare/afa4f8fd79...0bebaf1a06)
+- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/3b69be8807...cc7c500803)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
