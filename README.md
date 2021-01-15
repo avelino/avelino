@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/38429627d9...f959d00cfa)
 - [avelino released v1.0.5 at prest/prest](https://github.com/prest/prest/releases/tag/v1.0.5)
 - [avelino created a tag v1.0.5 in prest/prest](https://github.com/prest/prest/tree/v1.0.5)
 - [avelino deleted tag v1.0.5 at prest/prest](https://github.com/)
 - [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/7e70316f95...38429627d9)
-- [avelino created a tag v1.0.5 in prest/prest](https://github.com/prest/prest/tree/v1.0.5)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
