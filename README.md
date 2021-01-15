@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino starred BetterThanTomorrow/calva](https://github.com/BetterThanTomorrow/calva)
 - [avelino commented on pull request avelino/awesome-go#3450](https://github.com/avelino/awesome-go/pull/3450#issuecomment-761112091)
 - [avelino starred wilkerlucio/pathom](https://github.com/wilkerlucio/pathom)
 - [avelino commented on pull request avelino/awesome-go#3449](https://github.com/avelino/awesome-go/pull/3449#issuecomment-760602350)
 - [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/38429627d9...f959d00cfa)
-- [avelino released v1.0.5 at prest/prest](https://github.com/prest/prest/releases/tag/v1.0.5)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
