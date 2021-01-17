@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino pushed to avelino/prest-change-bin-name in avelino/homebrew-core](https://github.com/avelino/homebrew-core/compare/5bc041b8d5...6bdba8a81e)
+- [avelino opened a pull request in Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core/pull/69238)
+- [avelino pushed to master in avelino/homebrew-core](https://github.com/avelino/homebrew-core/compare/e7c26f0a03...a9057054ff)
 - [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/2f11d064ab...b1c9a85af3)
 - [avelino merged a pull request in prest/prest](https://github.com/prest/prest/pull/493)
-- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/f959d00cfa...2f11d064ab)
-- [avelino merged a pull request in prest/prest](https://github.com/prest/prest/pull/492)
-- [avelino opened an issue in avelino/awesome-go](https://github.com/avelino/awesome-go/issues/3453)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
