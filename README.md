@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/2f11d064ab...b1c9a85af3)
+- [avelino merged a pull request in prest/prest](https://github.com/prest/prest/pull/493)
+- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/f959d00cfa...2f11d064ab)
+- [avelino merged a pull request in prest/prest](https://github.com/prest/prest/pull/492)
 - [avelino opened an issue in avelino/awesome-go](https://github.com/avelino/awesome-go/issues/3453)
-- [avelino commented on pull request avelino/awesome-go#3452](https://github.com/avelino/awesome-go/pull/3452#issuecomment-761690134)
-- [avelino commented on pull request avelino/awesome-go#3451](https://github.com/avelino/awesome-go/pull/3451#issuecomment-761539666)
-- [avelino starred BetterThanTomorrow/calva](https://github.com/BetterThanTomorrow/calva)
-- [avelino commented on pull request avelino/awesome-go#3450](https://github.com/avelino/awesome-go/pull/3450#issuecomment-761112091)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
