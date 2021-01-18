@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/78a6041749...b4d6284b26)
+- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/b1c9a85af3...78a6041749)
 - [avelino commented on pull request avelino/awesome-go#3454](https://github.com/avelino/awesome-go/pull/3454#issuecomment-762335244)
 - [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/9a6b91bc9f...470be4af16)
 - [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/daf82cf4e7...9a6b91bc9f)
-- [avelino created a branch avelino/prest-change-bin-name in avelino/homebrew-core](https://github.com/avelino/homebrew-core/compare/avelino/prest-change-bin-name)
-- [avelino pushed to avelino/prest-change-bin-name in avelino/homebrew-core](https://github.com/avelino/homebrew-core/compare/11a4078d41...f902e39164)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
