@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/78a6041749...b4d6284b26)
-- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/b1c9a85af3...78a6041749)
-- [avelino commented on pull request avelino/awesome-go#3454](https://github.com/avelino/awesome-go/pull/3454#issuecomment-762335244)
-- [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/9a6b91bc9f...470be4af16)
-- [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/daf82cf4e7...9a6b91bc9f)
+- [avelino opened a pull request in avelino/awesome-go](https://github.com/avelino/awesome-go/pull/3455)
+- [avelino created a branch avelino/set-timenow-on-investigate-title-issue in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/avelino/set-timenow-on-investigate-title-issue)
+- [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/b8e45a7b1e...779a59670f)
+- [avelino commented on issue avelino/awesome-go#3407](https://github.com/avelino/awesome-go/issues/3407#issuecomment-762508990)
+- [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/2657e0fc34...b8e45a7b1e)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
