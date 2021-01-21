@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino starred aria2/aria2](https://github.com/aria2/aria2)
 - [avelino closed an issue in prest/prest](https://github.com/prest/prest/issues/495)
 - [avelino commented on issue prest/prest#495](https://github.com/prest/prest/issues/495#issuecomment-763971451)
 - [avelino starred dnsviz/dnsviz](https://github.com/dnsviz/dnsviz)
 - [avelino commented on issue prest/prest#495](https://github.com/prest/prest/issues/495#issuecomment-762953897)
-- [avelino commented on issue prest/prest#495](https://github.com/prest/prest/issues/495#issuecomment-762889548)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
