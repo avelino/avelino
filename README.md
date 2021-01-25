@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino commented on pull request avelino/awesome-go#3460](https://github.com/avelino/awesome-go/pull/3460#issuecomment-766507097)
 - [avelino opened an issue in avelino/awesome-go](https://github.com/avelino/awesome-go/issues/3459)
 - [avelino commented on pull request avelino/awesome-go#3458](https://github.com/avelino/awesome-go/pull/3458#issuecomment-765741343)
 - [avelino commented on pull request avelino/awesome-go#3457](https://github.com/avelino/awesome-go/pull/3457#issuecomment-765727598)
 - [avelino deleted branch fixed-install-hugo-on-travis at prest/doc-template](https://github.com/)
-- [avelino deleted branch gh-pages at prest/doc-template](https://github.com/)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
