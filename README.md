@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino commented on pull request avelino/awesome-go#3461](https://github.com/avelino/awesome-go/pull/3461#issuecomment-767382863)
 - [avelino pushed to master in avelino/dotfiles](https://github.com/avelino/dotfiles/compare/ab307ea0d0...562ba239a7)
 - [avelino pushed to master in avelino/dotfiles](https://github.com/avelino/dotfiles/compare/755649e39e...ab307ea0d0)
 - [avelino pushed to master in avelino/dotfiles](https://github.com/avelino/dotfiles/compare/8dbcfb3564...755649e39e)
 - [avelino commented on pull request prest/prest#496](https://github.com/prest/prest/pull/496#issuecomment-766847769)
-- [avelino deleted branch dependabot/go_modules/github.com/jmoiron/sqlx-1.3.0 at prest/prest](https://github.com/)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
