@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino starred wowthemesnet/template-mundana-bootstrap-html](https://github.com/wowthemesnet/template-mundana-bootstrap-html)
 - [avelino deleted branch 2021-01-26 at avelino/dotfiles](https://github.com/)
 - [avelino pushed to master in avelino/dotfiles](https://github.com/avelino/dotfiles/compare/562ba239a7...c2b6a891f8)
 - [avelino merged a pull request in avelino/dotfiles](https://github.com/avelino/dotfiles/pull/2)
 - [avelino opened a pull request in avelino/dotfiles](https://github.com/avelino/dotfiles/pull/2)
-- [avelino created a branch 2021-01-26 in avelino/dotfiles](https://github.com/avelino/dotfiles/compare/2021-01-26)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
