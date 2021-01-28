@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino commented on issue dracula/mailspring#6](https://github.com/dracula/mailspring/issues/6#issuecomment-769440107)
 - [avelino opened a pull request in dracula/telegram](https://github.com/dracula/telegram/pull/22)
 - [avelino created a branch avelino/improve-installation-documentation in avelino/telegram](https://github.com/avelino/telegram/compare/avelino/improve-installation-documentation)
 - [avelino forked avelino/telegram from dracula/telegram](https://github.com/avelino/telegram)
 - [avelino starred wowthemesnet/template-mundana-bootstrap-html](https://github.com/wowthemesnet/template-mundana-bootstrap-html)
-- [avelino deleted branch 2021-01-26 at avelino/dotfiles](https://github.com/)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
