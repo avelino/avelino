@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino starred cognitect-labs/aws-api](https://github.com/cognitect-labs/aws-api)
 - [avelino pushed to master in editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap/compare/2964a45f77...fcf6e5ca53)
 - [avelino pushed to master in editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap/compare/4c53224f82...2964a45f77)
 - [avelino commented on pull request editor-bootstrap/vim-bootstrap#374](https://github.com/editor-bootstrap/vim-bootstrap/pull/374#issuecomment-773887344)
 - [avelino pushed to master in editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap/compare/c3e7b8ae2d...4c53224f82)
-- [avelino merged a pull request in editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap/pull/374)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
