@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [avelino commented on pull request avelino/awesome-go#3470](https://github.com/avelino/awesome-go/pull/3470#issuecomment-773756209)
-- [avelino starred yahoo/CMAK](https://github.com/yahoo/CMAK)
-- [avelino pushed to master in avelino/avelino.run](https://github.com/avelino/avelino.run/compare/03f2bb370d...972317f2bf)
-- [avelino pushed to master in avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah/compare/e858ab626e...0a40bab822)
-- [avelino commented on issue avelino/awesome-go#3469](https://github.com/avelino/awesome-go/issues/3469#issuecomment-773174495)
+- [avelino pushed to master in editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap/compare/2964a45f77...fcf6e5ca53)
+- [avelino pushed to master in editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap/compare/4c53224f82...2964a45f77)
+- [avelino commented on pull request editor-bootstrap/vim-bootstrap#374](https://github.com/editor-bootstrap/vim-bootstrap/pull/374#issuecomment-773887344)
+- [avelino pushed to master in editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap/compare/c3e7b8ae2d...4c53224f82)
+- [avelino merged a pull request in editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap/pull/374)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
