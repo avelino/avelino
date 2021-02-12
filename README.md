@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino deleted branch avelino/readme-howto-docker-and-developer-mod at prest/prest](https://github.com/)
+- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/be04cfd2d4...14f135fea8)
+- [avelino merged a pull request in prest/prest](https://github.com/prest/prest/pull/509)
 - [avelino starred rmoff/ksqldb-go](https://github.com/rmoff/ksqldb-go)
 - [avelino starred bryanyang0528/ksql-python](https://github.com/bryanyang0528/ksql-python)
-- [avelino commented on pull request avelino/awesome-go#3484](https://github.com/avelino/awesome-go/pull/3484#issuecomment-778361977)
-- [avelino starred rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server)
-- [avelino commented on pull request avelino/awesome-go#3483](https://github.com/avelino/awesome-go/pull/3483#issuecomment-778196116)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
