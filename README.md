@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino deleted branch dependabot/go_modules/github.com/spf13/cobra-1.1.3 at prest/prest](https://github.com/)
+- [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/90e52213c2...be04cfd2d4)
+- [avelino merged a pull request in prest/prest](https://github.com/prest/prest/pull/507)
 - [avelino pushed to main in avelino/boilerpipe-clj](https://github.com/avelino/boilerpipe-clj/compare/aea2f5ffdb...71b44a8d40)
 - [avelino pushed to main in avelino/boilerpipe-clj](https://github.com/avelino/boilerpipe-clj/compare/826281a998...aea2f5ffdb)
-- [avelino pushed to main in avelino/boilerpipe-clj](https://github.com/avelino/boilerpipe-clj/compare/ea77886969...826281a998)
-- [avelino pushed to main in avelino/boilerpipe-clj](https://github.com/avelino/boilerpipe-clj/compare/7a1412dc06...ea77886969)
-- [avelino pushed to main in avelino/boilerpipe-clj](https://github.com/avelino/boilerpipe-clj/compare/8836a3c63d...7a1412dc06)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
