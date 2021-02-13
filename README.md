@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino opened a pull request in avelino/aur](https://github.com/avelino/aur/pull/14)
+- [avelino created a branch avelino/test in avelino/aur](https://github.com/avelino/aur/compare/avelino/test)
 - [avelino created a branch main in avelino/aur](https://github.com/avelino/aur/compare/main)
 - [avelino deleted branch master at avelino/aur](https://github.com/)
 - [avelino deleted branch main at avelino/aur](https://github.com/)
-- [avelino created a branch main in avelino/aur](https://github.com/avelino/aur/compare/main)
-- [avelino deleted branch avelino/howto-backup-recovery at avelino/aur](https://github.com/)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
