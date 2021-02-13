@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino commented on pull request avelino/awesome-go#3485](https://github.com/avelino/awesome-go/pull/3485#issuecomment-778596847)
 - [avelino pushed to main in avelino/boilerpipe-clj](https://github.com/avelino/boilerpipe-clj/compare/71b44a8d40...1a521da2df)
 - [avelino starred sanity-io/mendoza](https://github.com/sanity-io/mendoza)
 - [avelino deleted branch avelino/readme-howto-docker-and-developer-mod at prest/prest](https://github.com/)
 - [avelino pushed to master in prest/prest](https://github.com/prest/prest/compare/be04cfd2d4...14f135fea8)
-- [avelino merged a pull request in prest/prest](https://github.com/prest/prest/pull/509)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
