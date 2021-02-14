@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino pushed to avelino/test in avelino/aur](https://github.com/avelino/aur/compare/24103362f6...91d8491f72)
+- [avelino pushed to avelino/test in avelino/aur](https://github.com/avelino/aur/compare/a3575d411e...24103362f6)
+- [avelino pushed to avelino/test in avelino/aur](https://github.com/avelino/aur/compare/ab7cae43a1...a3575d411e)
 - [avelino opened an issue in addnab/docker-run-action](https://github.com/addnab/docker-run-action/issues/4)
 - [avelino pushed to avelino/test in avelino/aur](https://github.com/avelino/aur/compare/a4dd08f097...ab7cae43a1)
-- [avelino pushed to avelino/test in avelino/aur](https://github.com/avelino/aur/compare/e2bb361ff7...a4dd08f097)
-- [avelino pushed to avelino/test in avelino/aur](https://github.com/avelino/aur/compare/89fdce399d...e2bb361ff7)
-- [avelino opened an issue in avelino/awesome-go](https://github.com/avelino/awesome-go/issues/3486)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
