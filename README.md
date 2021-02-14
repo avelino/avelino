@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [avelino opened a pull request in avelino/aur](https://github.com/avelino/aur/pull/14)
-- [avelino created a branch avelino/test in avelino/aur](https://github.com/avelino/aur/compare/avelino/test)
-- [avelino created a branch main in avelino/aur](https://github.com/avelino/aur/compare/main)
-- [avelino deleted branch master at avelino/aur](https://github.com/)
-- [avelino deleted branch main at avelino/aur](https://github.com/)
+- [avelino opened an issue in addnab/docker-run-action](https://github.com/addnab/docker-run-action/issues/4)
+- [avelino pushed to avelino/test in avelino/aur](https://github.com/avelino/aur/compare/a4dd08f097...ab7cae43a1)
+- [avelino pushed to avelino/test in avelino/aur](https://github.com/avelino/aur/compare/e2bb361ff7...a4dd08f097)
+- [avelino pushed to avelino/test in avelino/aur](https://github.com/avelino/aur/compare/89fdce399d...e2bb361ff7)
+- [avelino opened an issue in avelino/awesome-go](https://github.com/avelino/awesome-go/issues/3486)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
