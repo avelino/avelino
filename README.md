@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [avelino pushed to master in avelino/awesome-go](https://github.com/avelino/awesome-go/compare/1c718e2369...61c8b2cbf9)
-- [avelino merged a pull request in avelino/awesome-go](https://github.com/avelino/awesome-go/pull/3506)
-- [avelino commented on issue avelino/awesome-go#3505](https://github.com/avelino/awesome-go/issues/3505#issuecomment-783445422)
-- [avelino closed an issue in avelino/awesome-go](https://github.com/avelino/awesome-go/issues/3505)
-- [avelino closed an issue in prest/prest](https://github.com/prest/prest/issues/352)
+- [avelino commented on pull request avelino/awesome-go#3508](https://github.com/avelino/awesome-go/pull/3508#issuecomment-785039294)
+- [avelino pushed to master in rumlang/rum](https://github.com/rumlang/rum/compare/d85eb30379...af0828337f)
+- [avelino pushed to master in rumlang/vscode-rum](https://github.com/rumlang/vscode-rum/compare/b4cb6d8160...059b09f49e)
+- [avelino pushed to master in rumlang/rum](https://github.com/rumlang/rum/compare/6e887c3acc...d85eb30379)
+- [avelino deleted branch avelino/initial-version at rumlang/vscode-rum](https://github.com/)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
