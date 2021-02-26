@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino commented on issue dracula/dracula-theme#525](https://github.com/dracula/dracula-theme/issues/525#issuecomment-786541826)
+- [avelino commented on issue dracula/dracula-theme#526](https://github.com/dracula/dracula-theme/issues/526#issuecomment-786538045)
+- [avelino starred brrd/abricotine](https://github.com/brrd/abricotine)
 - [avelino commented on pull request avelino/awesome-go#3510](https://github.com/avelino/awesome-go/pull/3510#issuecomment-786350775)
 - [avelino created a tag 0.1.13 in rumlang/vscode-rum](https://github.com/rumlang/vscode-rum/tree/0.1.13)
-- [avelino released 0.1.13 at rumlang/vscode-rum](https://github.com/rumlang/vscode-rum/releases/tag/0.1.13)
-- [avelino pushed to master in rumlang/vscode-rum](https://github.com/rumlang/vscode-rum/compare/059b09f49e...f59998cc03)
-- [avelino starred dracula/telegram](https://github.com/dracula/telegram)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
