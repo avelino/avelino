@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino commented on pull request avelino/awesome-go#3511](https://github.com/avelino/awesome-go/pull/3511#issuecomment-787054243)
 - [avelino opened an issue in rumlang/rum](https://github.com/rumlang/rum/issues/137)
 - [avelino opened a pull request in rumlang/rum](https://github.com/rumlang/rum/pull/136)
 - [avelino created a branch avelino/import-pattern in rumlang/rum](https://github.com/rumlang/rum/compare/avelino/import-pattern)
 - [avelino commented on issue dracula/dracula-theme#525](https://github.com/dracula/dracula-theme/issues/525#issuecomment-786541826)
-- [avelino commented on issue dracula/dracula-theme#526](https://github.com/dracula/dracula-theme/issues/526#issuecomment-786538045)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
