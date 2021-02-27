@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
-- [avelino pushed to avelino/import-pattern in rumlang/rum](https://github.com/rumlang/rum/compare/776d319616...0d4e85aa55)
-- [avelino pushed to avelino/import-pattern in rumlang/rum](https://github.com/rumlang/rum/compare/95e53ba8f1...776d319616)
-- [avelino pushed to avelino/import-pattern in rumlang/rum](https://github.com/rumlang/rum/compare/aa7978f92a...95e53ba8f1)
-- [avelino starred kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)
-- [avelino commented on pull request avelino/awesome-go#3511](https://github.com/avelino/awesome-go/pull/3511#issuecomment-787054243)
+- [avelino closed an issue in rumlang/rum](https://github.com/rumlang/rum/issues/141)
+- [avelino commented on issue rumlang/rum#141](https://github.com/rumlang/rum/issues/141#issuecomment-787125696)
+- [avelino created a branch main in rumlang/rum](https://github.com/rumlang/rum/compare/main)
+- [avelino deleted branch master at rumlang/rum](https://github.com/)
+- [avelino opened an issue in rumlang/rum](https://github.com/rumlang/rum/issues/141)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
