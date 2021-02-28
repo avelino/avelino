@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino opened an issue in avelino/awesome-go](https://github.com/avelino/awesome-go/issues/3512)
 - [avelino closed an issue in rumlang/rum](https://github.com/rumlang/rum/issues/141)
 - [avelino commented on issue rumlang/rum#141](https://github.com/rumlang/rum/issues/141#issuecomment-787125696)
 - [avelino created a branch main in rumlang/rum](https://github.com/rumlang/rum/compare/main)
 - [avelino deleted branch master at rumlang/rum](https://github.com/)
-- [avelino opened an issue in rumlang/rum](https://github.com/rumlang/rum/issues/141)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
