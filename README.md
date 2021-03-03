@@ -9,11 +9,11 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!-- GITHUB:START -->
+- [avelino starred chriswalz/bit](https://github.com/chriswalz/bit)
+- [avelino starred chriswalz/bit](https://github.com/chriswalz/bit)
+- [avelino starred pytorch/ignite](https://github.com/pytorch/ignite)
 - [avelino created a branch main in avelino/dotfiles](https://github.com/avelino/dotfiles/compare/main)
 - [avelino deleted branch master at avelino/dotfiles](https://github.com/)
-- [avelino pushed to master in avelino/dotfiles](https://github.com/avelino/dotfiles/compare/d30e8d4bf8...5ba50c83c3)
-- [avelino starred apache/groovy](https://github.com/apache/groovy)
-- [avelino commented on issue dracula/dracula-theme#532](https://github.com/dracula/dracula-theme/issues/532#issuecomment-788382469)
 <!-- GITHUB:END -->
 
 [more ...](https://github.com/avelino) <br>
