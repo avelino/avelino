@@ -23,8 +23,9 @@ jobs:
           comment_tag_name: DEVTO
           feed_list: "https://dev.to/feed/avelino"
 
-      - name: Github projects contributer
-        uses: gautamkrishnar/blog-post-workflow@master
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          comment_tag_name: GITHUB
-          feed_list: "https://github.com/avelino.atom"
+          COMMIT_MSG: 'Update with recent activity'
+          MAX_LINES: 8
