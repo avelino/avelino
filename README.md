@@ -9,14 +9,14 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3525](https://github.com/avelino/awesome-go/issues/3525) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. 💪 Opened PR [#3525](https://github.com/avelino/awesome-go/pull/3525) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🗣 Commented on [#3524](https://github.com/avelino/awesome-go/issues/3524) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-4. 💪 Opened PR [#3524](https://github.com/avelino/awesome-go/pull/3524) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. 🗣 Commented on [#3522](https://github.com/avelino/awesome-go/issues/3522) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-6. 🗣 Commented on [#3523](https://github.com/avelino/awesome-go/issues/3523) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-7. 💪 Opened PR [#3523](https://github.com/avelino/awesome-go/pull/3523) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-8. 🎉 Merged PR [#513](https://github.com/prest/prest/pull/513) in [prest/prest](https://github.com/prest/prest)
+1. 🎉 Merged PR [#3524](https://github.com/avelino/awesome-go/pull/3524) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+2. 🗣 Commented on [#3525](https://github.com/avelino/awesome-go/issues/3525) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 💪 Opened PR [#3525](https://github.com/avelino/awesome-go/pull/3525) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 🗣 Commented on [#3524](https://github.com/avelino/awesome-go/issues/3524) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. 💪 Opened PR [#3524](https://github.com/avelino/awesome-go/pull/3524) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. 🗣 Commented on [#3522](https://github.com/avelino/awesome-go/issues/3522) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+7. 🗣 Commented on [#3523](https://github.com/avelino/awesome-go/issues/3523) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+8. 💪 Opened PR [#3523](https://github.com/avelino/awesome-go/pull/3523) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
 [more ...](https://github.com/avelino) <br>
