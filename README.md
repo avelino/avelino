@@ -9,14 +9,14 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3529](https://github.com/avelino/awesome-go/issues/3529) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. 🗣 Commented on [#3528](https://github.com/avelino/awesome-go/issues/3528) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🗣 Commented on [#3527](https://github.com/avelino/awesome-go/issues/3527) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-4. 🗣 Commented on [#3526](https://github.com/avelino/awesome-go/issues/3526) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. 🎉 Merged PR [#3507](https://github.com/avelino/awesome-go/pull/3507) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-6. ❗️ Opened issue [#375](https://github.com/editor-bootstrap/vim-bootstrap/issues/375) in [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap)
-7. 🎉 Merged PR [#3524](https://github.com/avelino/awesome-go/pull/3524) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-8. 🗣 Commented on [#3525](https://github.com/avelino/awesome-go/issues/3525) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. 🗣 Commented on [#3530](https://github.com/avelino/awesome-go/issues/3530) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+2. ❗️ Opened issue [#3529](https://github.com/avelino/awesome-go/issues/3529) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 🗣 Commented on [#3528](https://github.com/avelino/awesome-go/issues/3528) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 🗣 Commented on [#3527](https://github.com/avelino/awesome-go/issues/3527) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. 🗣 Commented on [#3526](https://github.com/avelino/awesome-go/issues/3526) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. 🎉 Merged PR [#3507](https://github.com/avelino/awesome-go/pull/3507) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+7. ❗️ Opened issue [#375](https://github.com/editor-bootstrap/vim-bootstrap/issues/375) in [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap)
+8. 🎉 Merged PR [#3524](https://github.com/avelino/awesome-go/pull/3524) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
 [more ...](https://github.com/avelino) <br>
