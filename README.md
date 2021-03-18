@@ -9,14 +9,14 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3535](https://github.com/avelino/awesome-go/issues/3535) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. 🗣 Commented on [#3534](https://github.com/avelino/awesome-go/issues/3534) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🗣 Commented on [#3533](https://github.com/avelino/awesome-go/issues/3533) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-4. 🗣 Commented on [#3532](https://github.com/avelino/awesome-go/issues/3532) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. 🎉 Merged PR [#1](https://github.com/avelino/chrondb/pull/1) in [avelino/chrondb](https://github.com/avelino/chrondb)
-6. 🗣 Commented on [#3531](https://github.com/avelino/awesome-go/issues/3531) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-7. 💪 Opened PR [#1](https://github.com/avelino/chrondb/pull/1) in [avelino/chrondb](https://github.com/avelino/chrondb)
-8. 🗣 Commented on [#3530](https://github.com/avelino/awesome-go/issues/3530) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. 🗣 Commented on [#3536](https://github.com/avelino/awesome-go/issues/3536) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+2. 🗣 Commented on [#3535](https://github.com/avelino/awesome-go/issues/3535) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 🗣 Commented on [#3534](https://github.com/avelino/awesome-go/issues/3534) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 🗣 Commented on [#3533](https://github.com/avelino/awesome-go/issues/3533) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. 🗣 Commented on [#3532](https://github.com/avelino/awesome-go/issues/3532) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. 🎉 Merged PR [#1](https://github.com/avelino/chrondb/pull/1) in [avelino/chrondb](https://github.com/avelino/chrondb)
+7. 🗣 Commented on [#3531](https://github.com/avelino/awesome-go/issues/3531) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+8. 💪 Opened PR [#1](https://github.com/avelino/chrondb/pull/1) in [avelino/chrondb](https://github.com/avelino/chrondb)
 <!--END_SECTION:activity-->
 
 [more ...](https://github.com/avelino) <br>
