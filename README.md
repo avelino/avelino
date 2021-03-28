@@ -9,14 +9,14 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3546](https://github.com/avelino/awesome-go/issues/3546) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. 🎉 Merged PR [#3542](https://github.com/avelino/awesome-go/pull/3542) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🎉 Merged PR [#12](https://github.com/avelino/avelino.run/pull/12) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-4. ❌ Closed PR [#15](https://github.com/avelino/avelino.run/pull/15) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-5. ❌ Closed PR [#13](https://github.com/avelino/avelino.run/pull/13) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-6. 🎉 Merged PR [#16](https://github.com/avelino/avelino.run/pull/16) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-7. 🎉 Merged PR [#3544](https://github.com/avelino/awesome-go/pull/3544) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-8. 🎉 Merged PR [#3543](https://github.com/avelino/awesome-go/pull/3543) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. 💪 Opened PR [#1](https://github.com/nedbat/gefilte/pull/1) in [nedbat/gefilte](https://github.com/nedbat/gefilte)
+2. ❗️ Opened issue [#3546](https://github.com/avelino/awesome-go/issues/3546) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 🎉 Merged PR [#3542](https://github.com/avelino/awesome-go/pull/3542) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 🎉 Merged PR [#12](https://github.com/avelino/avelino.run/pull/12) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+5. ❌ Closed PR [#15](https://github.com/avelino/avelino.run/pull/15) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+6. ❌ Closed PR [#13](https://github.com/avelino/avelino.run/pull/13) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+7. 🎉 Merged PR [#16](https://github.com/avelino/avelino.run/pull/16) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+8. 🎉 Merged PR [#3544](https://github.com/avelino/awesome-go/pull/3544) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
 [more ...](https://github.com/avelino) <br>
