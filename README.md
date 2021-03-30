@@ -9,14 +9,14 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#518](https://github.com/prest/prest/pull/518) in [prest/prest](https://github.com/prest/prest)
-2. 🗣 Commented on [#517](https://github.com/prest/prest/issues/517) in [prest/prest](https://github.com/prest/prest)
-3. ❗️ Opened issue [#517](https://github.com/prest/prest/issues/517) in [prest/prest](https://github.com/prest/prest)
-4. 🎉 Merged PR [#516](https://github.com/prest/prest/pull/516) in [prest/prest](https://github.com/prest/prest)
-5. 🗣 Commented on [#3540](https://github.com/avelino/awesome-go/issues/3540) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-6. 🎉 Merged PR [#3540](https://github.com/avelino/awesome-go/pull/3540) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-7. 💪 Opened PR [#516](https://github.com/prest/prest/pull/516) in [prest/prest](https://github.com/prest/prest)
-8. 🗣 Commented on [#3497](https://github.com/avelino/awesome-go/issues/3497) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. 🗣 Commented on [#515](https://github.com/prest/prest/issues/515) in [prest/prest](https://github.com/prest/prest)
+2. ❗️ Closed issue [#515](https://github.com/prest/prest/issues/515) in [prest/prest](https://github.com/prest/prest)
+3. 🎉 Merged PR [#518](https://github.com/prest/prest/pull/518) in [prest/prest](https://github.com/prest/prest)
+4. 💪 Opened PR [#518](https://github.com/prest/prest/pull/518) in [prest/prest](https://github.com/prest/prest)
+5. 🗣 Commented on [#517](https://github.com/prest/prest/issues/517) in [prest/prest](https://github.com/prest/prest)
+6. ❗️ Opened issue [#517](https://github.com/prest/prest/issues/517) in [prest/prest](https://github.com/prest/prest)
+7. 🎉 Merged PR [#516](https://github.com/prest/prest/pull/516) in [prest/prest](https://github.com/prest/prest)
+8. 🗣 Commented on [#3540](https://github.com/avelino/awesome-go/issues/3540) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
 [more ...](https://github.com/avelino) <br>
