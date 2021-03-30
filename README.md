@@ -9,14 +9,14 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3497](https://github.com/avelino/awesome-go/issues/3497) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. 🎉 Merged PR [#3497](https://github.com/avelino/awesome-go/pull/3497) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🎉 Merged PR [#1](https://github.com/prest/prest-heroku/pull/1) in [prest/prest-heroku](https://github.com/prest/prest-heroku)
-4. 💪 Opened PR [#1](https://github.com/prest/prest-heroku/pull/1) in [prest/prest-heroku](https://github.com/prest/prest-heroku)
-5. 🎉 Merged PR [#3549](https://github.com/avelino/awesome-go/pull/3549) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-6. ❗️ Closed issue [#3541](https://github.com/avelino/awesome-go/issues/3541) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-7. ❗️ Opened issue [#3550](https://github.com/avelino/awesome-go/issues/3550) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-8. 🗣 Commented on [#3548](https://github.com/avelino/awesome-go/issues/3548) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. 🎉 Merged PR [#516](https://github.com/prest/prest/pull/516) in [prest/prest](https://github.com/prest/prest)
+2. 🗣 Commented on [#3540](https://github.com/avelino/awesome-go/issues/3540) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 🎉 Merged PR [#3540](https://github.com/avelino/awesome-go/pull/3540) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 💪 Opened PR [#516](https://github.com/prest/prest/pull/516) in [prest/prest](https://github.com/prest/prest)
+5. 🗣 Commented on [#3497](https://github.com/avelino/awesome-go/issues/3497) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. 🎉 Merged PR [#3497](https://github.com/avelino/awesome-go/pull/3497) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+7. 🎉 Merged PR [#1](https://github.com/prest/prest-heroku/pull/1) in [prest/prest-heroku](https://github.com/prest/prest-heroku)
+8. 💪 Opened PR [#1](https://github.com/prest/prest-heroku/pull/1) in [prest/prest-heroku](https://github.com/prest/prest-heroku)
 <!--END_SECTION:activity-->
 
 [more ...](https://github.com/avelino) <br>
