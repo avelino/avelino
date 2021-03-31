@@ -9,14 +9,14 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3551](https://github.com/avelino/awesome-go/issues/3551) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. 💪 Opened PR [#519](https://github.com/prest/prest/pull/519) in [prest/prest](https://github.com/prest/prest)
-3. 🗣 Commented on [#515](https://github.com/prest/prest/issues/515) in [prest/prest](https://github.com/prest/prest)
-4. ❗️ Closed issue [#515](https://github.com/prest/prest/issues/515) in [prest/prest](https://github.com/prest/prest)
-5. 🎉 Merged PR [#518](https://github.com/prest/prest/pull/518) in [prest/prest](https://github.com/prest/prest)
-6. 💪 Opened PR [#518](https://github.com/prest/prest/pull/518) in [prest/prest](https://github.com/prest/prest)
-7. 🗣 Commented on [#517](https://github.com/prest/prest/issues/517) in [prest/prest](https://github.com/prest/prest)
-8. ❗️ Opened issue [#517](https://github.com/prest/prest/issues/517) in [prest/prest](https://github.com/prest/prest)
+1. 🎉 Merged PR [#519](https://github.com/prest/prest/pull/519) in [prest/prest](https://github.com/prest/prest)
+2. 🗣 Commented on [#3551](https://github.com/avelino/awesome-go/issues/3551) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 💪 Opened PR [#519](https://github.com/prest/prest/pull/519) in [prest/prest](https://github.com/prest/prest)
+4. 🗣 Commented on [#515](https://github.com/prest/prest/issues/515) in [prest/prest](https://github.com/prest/prest)
+5. ❗️ Closed issue [#515](https://github.com/prest/prest/issues/515) in [prest/prest](https://github.com/prest/prest)
+6. 🎉 Merged PR [#518](https://github.com/prest/prest/pull/518) in [prest/prest](https://github.com/prest/prest)
+7. 💪 Opened PR [#518](https://github.com/prest/prest/pull/518) in [prest/prest](https://github.com/prest/prest)
+8. 🗣 Commented on [#517](https://github.com/prest/prest/issues/517) in [prest/prest](https://github.com/prest/prest)
 <!--END_SECTION:activity-->
 
 [more ...](https://github.com/avelino) <br>
