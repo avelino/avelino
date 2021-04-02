@@ -9,14 +9,14 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3554](https://github.com/avelino/awesome-go/issues/3554) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. 🗣 Commented on [#3553](https://github.com/avelino/awesome-go/issues/3553) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. ❗️ Closed issue [#3551](https://github.com/avelino/awesome-go/issues/3551) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-4. 🎉 Merged PR [#3552](https://github.com/avelino/awesome-go/pull/3552) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. 🗣 Commented on [#3552](https://github.com/avelino/awesome-go/issues/3552) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-6. 🎉 Merged PR [#519](https://github.com/prest/prest/pull/519) in [prest/prest](https://github.com/prest/prest)
-7. 🗣 Commented on [#3551](https://github.com/avelino/awesome-go/issues/3551) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-8. 💪 Opened PR [#519](https://github.com/prest/prest/pull/519) in [prest/prest](https://github.com/prest/prest)
+1. 💪 Opened PR [#1](https://github.com/arxdsilva/golang-ifood-sdk/pull/1) in [arxdsilva/golang-ifood-sdk](https://github.com/arxdsilva/golang-ifood-sdk)
+2. 🗣 Commented on [#3554](https://github.com/avelino/awesome-go/issues/3554) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 🗣 Commented on [#3553](https://github.com/avelino/awesome-go/issues/3553) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. ❗️ Closed issue [#3551](https://github.com/avelino/awesome-go/issues/3551) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. 🎉 Merged PR [#3552](https://github.com/avelino/awesome-go/pull/3552) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. 🗣 Commented on [#3552](https://github.com/avelino/awesome-go/issues/3552) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+7. 🎉 Merged PR [#519](https://github.com/prest/prest/pull/519) in [prest/prest](https://github.com/prest/prest)
+8. 🗣 Commented on [#3551](https://github.com/avelino/awesome-go/issues/3551) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
 [more ...](https://github.com/avelino) <br>
