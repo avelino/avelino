@@ -9,14 +9,14 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3317](https://github.com/avelino/awesome-go/issues/3317) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. 🗣 Commented on [#3559](https://github.com/avelino/awesome-go/issues/3559) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🗣 Commented on [#3558](https://github.com/avelino/awesome-go/issues/3558) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-4. 🗣 Commented on [#3550](https://github.com/avelino/awesome-go/issues/3550) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. 🗣 Commented on [#3556](https://github.com/avelino/awesome-go/issues/3556) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-6. 🗣 Commented on [#3557](https://github.com/avelino/awesome-go/issues/3557) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-7. ❗️ Opened issue [#3555](https://github.com/avelino/awesome-go/issues/3555) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-8. 💪 Opened PR [#1](https://github.com/arxdsilva/golang-ifood-sdk/pull/1) in [arxdsilva/golang-ifood-sdk](https://github.com/arxdsilva/golang-ifood-sdk)
+1. 🗣 Commented on [#3560](https://github.com/avelino/awesome-go/issues/3560) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+2. ❗️ Closed issue [#3317](https://github.com/avelino/awesome-go/issues/3317) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 🗣 Commented on [#3559](https://github.com/avelino/awesome-go/issues/3559) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 🗣 Commented on [#3558](https://github.com/avelino/awesome-go/issues/3558) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. 🗣 Commented on [#3550](https://github.com/avelino/awesome-go/issues/3550) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. 🗣 Commented on [#3556](https://github.com/avelino/awesome-go/issues/3556) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+7. 🗣 Commented on [#3557](https://github.com/avelino/awesome-go/issues/3557) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+8. ❗️ Opened issue [#3555](https://github.com/avelino/awesome-go/issues/3555) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
 [more ...](https://github.com/avelino) <br>
