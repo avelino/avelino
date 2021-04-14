@@ -4,28 +4,18 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 
 [![Avelino's Sponsor](https://user-images.githubusercontent.com/31996/90784634-dc4b7480-e2d7-11ea-94b0-48754ff3afb1.png)](https://github.com/sponsors/avelino)
 
-[![Avelino's github stats](https://github-readme-stats.vercel.app/api?username=avelino&theme=dracula&border_radius=10&hide_border=true)](https://avelino.run/about/)
+[![Avelino's Github Stats](https://github-readme-stats.vercel.app/api?username=avelino&theme=dracula&border_radius=10&hide_border=true)](https://avelino.run/about/)
 
-### Recent open source contributions 👨‍💻
+### What I'm working on 👨‍💻
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#3570](https://github.com/avelino/awesome-go/issues/3570) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. 🗣 Commented on [#3569](https://github.com/avelino/awesome-go/issues/3569) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🗣 Commented on [#3568](https://github.com/avelino/awesome-go/issues/3568) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-4. 🗣 Commented on [#3567](https://github.com/avelino/awesome-go/issues/3567) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. ❗️ Opened issue [#10](https://github.com/scarsu/NotionX/issues/10) in [scarsu/NotionX](https://github.com/scarsu/NotionX)
-6. ❗️ Opened issue [#3565](https://github.com/avelino/awesome-go/issues/3565) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-7. 🗣 Commented on [#556](https://github.com/dracula/dracula-theme/issues/556) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
-8. 🗣 Commented on [#3564](https://github.com/avelino/awesome-go/issues/3564) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-<!--END_SECTION:activity-->
+[🐘: pREST](https://github.com/prest/prest) - _**PostgreSQL + REST**, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new_<br />
+[📝: vim-bootstrap](https://vim-bootstrap.com) - _generator provides a simple method of generating a **.vimrc** configuration for vim_<br />
+[🐨: awesome-go](https://github.com/avelino/awesome-go) - _curated list of awesome **Go** frameworks, libraries and software_<br />
+[🏸: awesome-racket](https://github.com/avelino/awesome-racket) - _curated list of awesome **Racket** frameworks, libraries and software, maintained by Community_
 
-[more ...](https://github.com/avelino) <br>
+> are you interested in helping me maintain a project? don't hesitate to [contact me](mailto:t+github@avelino.xxx)
 
-[🐨: awesome-go](https://github.com/avelino/awesome-go) - _curated list of awesome Go frameworks, libraries and software_<br>
-[🐘: pREST](https://github.com/prest/prest) - _simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new_ <br>
-[📝: vim-bootstrap](https://vim-bootstrap.com) - _generator provides a simple method of generating a .vimrc configuration for vim_<br>
-[🐙: gofn](https://github.com/gofn/gofn) - _function process via docker provider (serverless minimalist)_<br>
-[🏸: awesome-racket](https://github.com/avelino/awesome-racket) - _curated list of awesome Racket frameworks, libraries and software, maintained by Community_
+[![Avelino's Language Statts](https://github-readme-stats.vercel.app/api/top-langs/?username=avelino&theme=dracula&border_radius=10&hide_border=true&layout=compact)](https://avelino.run/about/)
 
 ### Latest Blog Posts 📕
 
@@ -43,6 +33,19 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 - [Behind Open Source projects there are people](https://dev.to/avelino/behind-open-source-projects-there-are-people-hd1)
 - [Alta performance com dieta baseada em plantas](https://dev.to/avelino/alta-performance-com-dieta-baseada-em-plantas-ab3)
 <!-- DEVTO:END -->
+
+### Recent open source contributions 👨‍💻
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#3570](https://github.com/avelino/awesome-go/issues/3570) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+2. 🗣 Commented on [#3569](https://github.com/avelino/awesome-go/issues/3569) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 🗣 Commented on [#3568](https://github.com/avelino/awesome-go/issues/3568) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 🗣 Commented on [#3567](https://github.com/avelino/awesome-go/issues/3567) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. ❗️ Opened issue [#10](https://github.com/scarsu/NotionX/issues/10) in [scarsu/NotionX](https://github.com/scarsu/NotionX)
+6. ❗️ Opened issue [#3565](https://github.com/avelino/awesome-go/issues/3565) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+7. 🗣 Commented on [#556](https://github.com/dracula/dracula-theme/issues/556) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
+8. 🗣 Commented on [#3564](https://github.com/avelino/awesome-go/issues/3564) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+<!--END_SECTION:activity-->
 
 ### Find me elsewhere 🌎
 
