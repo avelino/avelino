@@ -50,4 +50,4 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 [📸: Instagram](https://instagram.com/avelinorun) - _Amateur #Triathlete 🏊‍♂️🚴‍♂️🏃‍♂️_ <br>
 [🐦: Twitter](https://twitter.com/avelinorun) <br>
 [💼: LinkedIn](https://www.linkedin.com/in/avelinorun) <br>
-[📫: t AT avelino DOT xxx](mailto:t@avelino.xxx)
+[📫: t AT avelino DOT xxx](mailto:t+github@avelino.xxx)
