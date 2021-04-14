@@ -2,9 +2,9 @@
 
 Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 
-[![Sponsor avelino](https://user-images.githubusercontent.com/31996/90784634-dc4b7480-e2d7-11ea-94b0-48754ff3afb1.png)](https://github.com/sponsors/avelino)
+[![Avelino's Sponsor](https://user-images.githubusercontent.com/31996/90784634-dc4b7480-e2d7-11ea-94b0-48754ff3afb1.png)](https://github.com/sponsors/avelino)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=avelino)](https://github.com/avelino)
+[![Avelino's github stats](https://github-readme-stats.vercel.app/api?username=avelino&theme=dracula&border_radius=10&hide_border=true)](https://avelino.run/about/)
 
 ### Recent open source contributions 👨‍💻
 
