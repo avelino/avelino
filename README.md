@@ -37,14 +37,14 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3570](https://github.com/avelino/awesome-go/issues/3570) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. 🗣 Commented on [#3569](https://github.com/avelino/awesome-go/issues/3569) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🗣 Commented on [#3568](https://github.com/avelino/awesome-go/issues/3568) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-4. 🗣 Commented on [#3567](https://github.com/avelino/awesome-go/issues/3567) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. ❗️ Opened issue [#10](https://github.com/scarsu/NotionX/issues/10) in [scarsu/NotionX](https://github.com/scarsu/NotionX)
-6. ❗️ Opened issue [#3565](https://github.com/avelino/awesome-go/issues/3565) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-7. 🗣 Commented on [#556](https://github.com/dracula/dracula-theme/issues/556) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
-8. 🗣 Commented on [#3564](https://github.com/avelino/awesome-go/issues/3564) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. ❗️ Opened issue [#523](https://github.com/prest/prest/issues/523) in [prest/prest](https://github.com/prest/prest)
+2. 🗣 Commented on [#3570](https://github.com/avelino/awesome-go/issues/3570) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 🗣 Commented on [#3569](https://github.com/avelino/awesome-go/issues/3569) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 🗣 Commented on [#3568](https://github.com/avelino/awesome-go/issues/3568) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. 🗣 Commented on [#3567](https://github.com/avelino/awesome-go/issues/3567) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. ❗️ Opened issue [#10](https://github.com/scarsu/NotionX/issues/10) in [scarsu/NotionX](https://github.com/scarsu/NotionX)
+7. ❗️ Opened issue [#3565](https://github.com/avelino/awesome-go/issues/3565) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+8. 🗣 Commented on [#556](https://github.com/dracula/dracula-theme/issues/556) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
 <!--END_SECTION:activity-->
 
 ### Find me elsewhere 🌎
