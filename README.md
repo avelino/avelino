@@ -37,14 +37,14 @@ Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3578](https://github.com/avelino/awesome-go/issues/3578) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. 🗣 Commented on [#3579](https://github.com/avelino/awesome-go/issues/3579) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 2. 🗣 Commented on [#3578](https://github.com/avelino/awesome-go/issues/3578) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🗣 Commented on [#3577](https://github.com/avelino/awesome-go/issues/3577) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-4. 🗣 Commented on [#3576](https://github.com/avelino/awesome-go/issues/3576) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. 🗣 Commented on [#3575](https://github.com/avelino/awesome-go/issues/3575) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-6. 🗣 Commented on [#3564](https://github.com/avelino/awesome-go/issues/3564) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-7. 🗣 Commented on [#774](https://github.com/brave/brave-browser/issues/774) in [brave/brave-browser](https://github.com/brave/brave-browser)
-8. ❗️ Opened issue [#3574](https://github.com/avelino/awesome-go/issues/3574) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 🗣 Commented on [#3578](https://github.com/avelino/awesome-go/issues/3578) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 🗣 Commented on [#3577](https://github.com/avelino/awesome-go/issues/3577) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. 🗣 Commented on [#3576](https://github.com/avelino/awesome-go/issues/3576) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. 🗣 Commented on [#3575](https://github.com/avelino/awesome-go/issues/3575) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+7. 🗣 Commented on [#3564](https://github.com/avelino/awesome-go/issues/3564) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+8. 🗣 Commented on [#774](https://github.com/brave/brave-browser/issues/774) in [brave/brave-browser](https://github.com/brave/brave-browser)
 <!--END_SECTION:activity-->
 
 ### Find me elsewhere 🌎
