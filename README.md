@@ -1,6 +1,6 @@
 ### Hey, I'm Avelino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 
-Chief Executive Officer at [_p_**REST**](https://github.com/prest/prest)
+CPO at [@Soluevo](https://soluevo.com.br/)
 
 [![Avelino's Sponsor](https://user-images.githubusercontent.com/31996/90784634-dc4b7480-e2d7-11ea-94b0-48754ff3afb1.png)](https://github.com/sponsors/avelino)
 
