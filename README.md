@@ -4,18 +4,18 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 
 [![Avelino's Sponsor](https://user-images.githubusercontent.com/31996/90784634-dc4b7480-e2d7-11ea-94b0-48754ff3afb1.png)](https://github.com/sponsors/avelino)
 
-[![Avelino's Github Stats](https://github-readme-stats.vercel.app/api?username=avelino&theme=dracula&border_radius=10&hide_border=true)](https://avelino.run/about/)
-
 ### What I'm working on 👨‍💻
 
 [🐘: pREST](https://github.com/prest/prest) - _**PostgreSQL + REST**, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new_<br />
-[📝: vim-bootstrap](https://vim-bootstrap.com) - _generator provides a simple method of generating a **.vimrc** configuration for vim_<br />
-[🐨: awesome-go](https://github.com/avelino/awesome-go) - _curated list of awesome **Go** frameworks, libraries and software_<br />
-[🏸: awesome-racket](https://github.com/avelino/awesome-racket) - _curated list of awesome **Racket** frameworks, libraries and software, maintained by Community_
+[📝: vim-bootstrap](https://vim-bootstrap.com) - _generator provides a simple method of generating a **.vimrc** configuration for vim_
 
-> are you interested in helping me maintain a project? don't hesitate to [contact me](mailto:t+github@avelino.xxx)
+### Find me elsewhere 🌎
 
-[![Avelino's Language Statts](https://github-readme-stats.vercel.app/api/top-langs/?username=avelino&theme=dracula&border_radius=10&hide_border=true&layout=compact)](https://avelino.run/about/)
+[🚀: Site](https://avelino.run) <br>
+[📸: Instagram](https://instagram.com/avelinorun) - _good dream is dream lived, triathlete 🏊‍♂️ 🚴‍♂️ 🏃‍♂️ _ <br>
+[🐦: Twitter](https://twitter.com/avelinorun) <br>
+[💼: LinkedIn](https://www.linkedin.com/in/avelinorun) <br>
+[📫: t AT avelino DOT xxx](mailto:t+github@avelino.xxx)
 
 ### Latest Blog Posts 📕
 
@@ -47,10 +47,4 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 8. 🗣 Commented on [#3576](https://github.com/avelino/awesome-go/issues/3576) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
-### Find me elsewhere 🌎
-
-[🚀: Site](https://avelino.run) <br>
-[📸: Instagram](https://instagram.com/avelinorun) - _Amateur #Triathlete 🏊‍♂️🚴‍♂️🏃‍♂️_ <br>
-[🐦: Twitter](https://twitter.com/avelinorun) <br>
-[💼: LinkedIn](https://www.linkedin.com/in/avelinorun) <br>
-[📫: t AT avelino DOT xxx](mailto:t+github@avelino.xxx)
+[![Avelino's Github Stats](https://github-readme-stats.vercel.app/api?username=avelino&theme=dracula&border_radius=10&hide_border=true)](https://avelino.run/about/)
