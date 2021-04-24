@@ -47,4 +47,7 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 8. 🎉 Merged PR [#40](https://github.com/prest/doc-template/pull/40) in [prest/doc-template](https://github.com/prest/doc-template)
 <!--END_SECTION:activity-->
 
+![Metrics](https://metrics.lecoq.io/avelino)
+<!--
 [![Avelino's Github Stats](https://github-readme-stats.vercel.app/api?username=avelino&theme=dracula&border_radius=10&hide_border=true)](https://avelino.run/about/)
+-->
