@@ -37,14 +37,14 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3582](https://github.com/avelino/awesome-go/issues/3582) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. 🗣 Commented on [#3581](https://github.com/avelino/awesome-go/issues/3581) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🎉 Merged PR [#18](https://github.com/avelino/avelino.run/pull/18) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-4. 🎉 Merged PR [#17](https://github.com/avelino/avelino.run/pull/17) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-5. 🗣 Commented on [#527](https://github.com/prest/prest/issues/527) in [prest/prest](https://github.com/prest/prest)
-6. 🎉 Merged PR [#526](https://github.com/prest/prest/pull/526) in [prest/prest](https://github.com/prest/prest)
-7. 💪 Opened PR [#525](https://github.com/prest/prest/pull/525) in [prest/prest](https://github.com/prest/prest)
-8. 🎉 Merged PR [#40](https://github.com/prest/doc-template/pull/40) in [prest/doc-template](https://github.com/prest/doc-template)
+1. ❗️ Opened issue [#3583](https://github.com/avelino/awesome-go/issues/3583) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+2. 🗣 Commented on [#3582](https://github.com/avelino/awesome-go/issues/3582) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 🗣 Commented on [#3581](https://github.com/avelino/awesome-go/issues/3581) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 🎉 Merged PR [#18](https://github.com/avelino/avelino.run/pull/18) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+5. 🎉 Merged PR [#17](https://github.com/avelino/avelino.run/pull/17) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+6. 🗣 Commented on [#527](https://github.com/prest/prest/issues/527) in [prest/prest](https://github.com/prest/prest)
+7. 🎉 Merged PR [#526](https://github.com/prest/prest/pull/526) in [prest/prest](https://github.com/prest/prest)
+8. 💪 Opened PR [#525](https://github.com/prest/prest/pull/525) in [prest/prest](https://github.com/prest/prest)
 <!--END_SECTION:activity-->
 
 ![Metrics](https://metrics.lecoq.io/avelino)
