@@ -37,14 +37,14 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/avelino/hugo-theme-sarah/pull/36) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
-2. 🎉 Merged PR [#35](https://github.com/avelino/hugo-theme-sarah/pull/35) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
-3. 💪 Opened PR [#36](https://github.com/avelino/hugo-theme-sarah/pull/36) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
-4. 💪 Opened PR [#35](https://github.com/avelino/hugo-theme-sarah/pull/35) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
-5. 🎉 Merged PR [#29](https://github.com/avelino/hugo-theme-sarah/pull/29) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
-6. 🎉 Merged PR [#19](https://github.com/avelino/avelino.run/pull/19) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-7. 🎉 Merged PR [#26](https://github.com/avelino/hugo-theme-sarah/pull/26) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
-8. ❗️ Opened issue [#3583](https://github.com/avelino/awesome-go/issues/3583) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. ❗️ Closed issue [#1](https://github.com/avelino/hugo-theme-sarah/issues/1) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
+2. ❗️ Closed issue [#20](https://github.com/avelino/hugo-theme-sarah/issues/20) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
+3. 🎉 Merged PR [#36](https://github.com/avelino/hugo-theme-sarah/pull/36) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
+4. 🎉 Merged PR [#35](https://github.com/avelino/hugo-theme-sarah/pull/35) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
+5. 💪 Opened PR [#36](https://github.com/avelino/hugo-theme-sarah/pull/36) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
+6. 💪 Opened PR [#35](https://github.com/avelino/hugo-theme-sarah/pull/35) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
+7. 🎉 Merged PR [#29](https://github.com/avelino/hugo-theme-sarah/pull/29) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
+8. 🎉 Merged PR [#19](https://github.com/avelino/avelino.run/pull/19) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
 <!--END_SECTION:activity-->
 
 ![Metrics](https://metrics.lecoq.io/avelino)
