@@ -37,14 +37,14 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/avelino/hugo-theme-sarah/pull/26) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
-2. ❗️ Opened issue [#3583](https://github.com/avelino/awesome-go/issues/3583) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🗣 Commented on [#3582](https://github.com/avelino/awesome-go/issues/3582) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-4. 🗣 Commented on [#3581](https://github.com/avelino/awesome-go/issues/3581) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. 🎉 Merged PR [#18](https://github.com/avelino/avelino.run/pull/18) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-6. 🎉 Merged PR [#17](https://github.com/avelino/avelino.run/pull/17) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-7. 🗣 Commented on [#527](https://github.com/prest/prest/issues/527) in [prest/prest](https://github.com/prest/prest)
-8. 🎉 Merged PR [#526](https://github.com/prest/prest/pull/526) in [prest/prest](https://github.com/prest/prest)
+1. 🎉 Merged PR [#19](https://github.com/avelino/avelino.run/pull/19) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+2. 🎉 Merged PR [#26](https://github.com/avelino/hugo-theme-sarah/pull/26) in [avelino/hugo-theme-sarah](https://github.com/avelino/hugo-theme-sarah)
+3. ❗️ Opened issue [#3583](https://github.com/avelino/awesome-go/issues/3583) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 🗣 Commented on [#3582](https://github.com/avelino/awesome-go/issues/3582) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. 🗣 Commented on [#3581](https://github.com/avelino/awesome-go/issues/3581) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. 🎉 Merged PR [#18](https://github.com/avelino/avelino.run/pull/18) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+7. 🎉 Merged PR [#17](https://github.com/avelino/avelino.run/pull/17) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+8. 🗣 Commented on [#527](https://github.com/prest/prest/issues/527) in [prest/prest](https://github.com/prest/prest)
 <!--END_SECTION:activity-->
 
 ![Metrics](https://metrics.lecoq.io/avelino)
