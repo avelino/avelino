@@ -20,11 +20,11 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Latest Blog Posts 📕
 
 <!-- BLOG:START -->
+- [DevHealthy - Episódio 22: 110kg a menos, rotina de treino, triathlon e pôs COVID19](https://avelino.run/quote/lifestyle/devhealthy-22-podcast-110kg-a-menos-triathlon-pos-covid/)
 - [Living our dream should be our priority](https://avelino.run/quote/lifestyle/living-our-dream-should-be-our-priority/)
 - [Caminhada - que fase pós covid](https://avelino.run/quote/lifestyle/caminhada-que-fase-pos-covid/)
 - [Kubicast - Episódio 45: Arquitetura de Software, existe algo além dos microsserviços?](https://avelino.run/kubicast-epis%C3%B3dio-45-arquitetura-de-software-existe-algo-al%C3%A9m-dos-microsservi%C3%A7os/)
 - [3 passos importantes para cumprir nosso objetivo e metas](https://avelino.run/quote/3-passos-importantes-para-cumprir-nosso-objetivo-e-metas/)
-- [Usando 5W2H para planejar objetivo (e metas)](https://avelino.run/quote/usando-5w2h-para-planejar-objetivo-e-metas/)
 <!-- BLOG:END -->
 <!-- DEVTO:START -->
 - [Full Text Search in PostgreSQL](https://dev.to/prestd/full-text-search-in-postgresql-4k6e)
