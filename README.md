@@ -37,14 +37,14 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/gotuna/gotuna/pull/5) in [gotuna/gotuna](https://github.com/gotuna/gotuna)
-2. 🎉 Merged PR [#3579](https://github.com/avelino/awesome-go/pull/3579) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🎉 Merged PR [#3553](https://github.com/avelino/awesome-go/pull/3553) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-4. ❌ Closed PR [#3571](https://github.com/avelino/awesome-go/pull/3571) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. 🎉 Merged PR [#3576](https://github.com/avelino/awesome-go/pull/3576) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-6. 🎉 Merged PR [#3584](https://github.com/avelino/awesome-go/pull/3584) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-7. 🎉 Merged PR [#3581](https://github.com/avelino/awesome-go/pull/3581) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-8. 🎉 Merged PR [#3580](https://github.com/avelino/awesome-go/pull/3580) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. ❗️ Closed issue [#8](https://github.com/dracula/mailspring/issues/8) in [dracula/mailspring](https://github.com/dracula/mailspring)
+2. 🗣 Commented on [#8](https://github.com/dracula/mailspring/issues/8) in [dracula/mailspring](https://github.com/dracula/mailspring)
+3. 💪 Opened PR [#5](https://github.com/gotuna/gotuna/pull/5) in [gotuna/gotuna](https://github.com/gotuna/gotuna)
+4. 🎉 Merged PR [#3579](https://github.com/avelino/awesome-go/pull/3579) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. 🎉 Merged PR [#3553](https://github.com/avelino/awesome-go/pull/3553) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. ❌ Closed PR [#3571](https://github.com/avelino/awesome-go/pull/3571) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+7. 🎉 Merged PR [#3576](https://github.com/avelino/awesome-go/pull/3576) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+8. 🎉 Merged PR [#3584](https://github.com/avelino/awesome-go/pull/3584) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
 ![Metrics](https://metrics.lecoq.io/avelino)
