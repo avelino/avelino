@@ -37,14 +37,14 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#527](https://github.com/prest/prest/issues/527) in [prest/prest](https://github.com/prest/prest)
-2. 🗣 Commented on [#3587](https://github.com/avelino/awesome-go/issues/3587) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🎉 Merged PR [#528](https://github.com/prest/prest/pull/528) in [prest/prest](https://github.com/prest/prest)
-4. 🗣 Commented on [#6](https://github.com/dracula/mailspring/issues/6) in [dracula/mailspring](https://github.com/dracula/mailspring)
-5. 🎉 Merged PR [#525](https://github.com/prest/prest/pull/525) in [prest/prest](https://github.com/prest/prest)
-6. 🎉 Merged PR [#9](https://github.com/dracula/mailspring/pull/9) in [dracula/mailspring](https://github.com/dracula/mailspring)
-7. 💪 Opened PR [#9](https://github.com/dracula/mailspring/pull/9) in [dracula/mailspring](https://github.com/dracula/mailspring)
-8. 🗣 Commented on [#3585](https://github.com/avelino/awesome-go/issues/3585) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. ❗️ Opened issue [#9](https://github.com/dracula/spec/issues/9) in [dracula/spec](https://github.com/dracula/spec)
+2. 🗣 Commented on [#527](https://github.com/prest/prest/issues/527) in [prest/prest](https://github.com/prest/prest)
+3. 🗣 Commented on [#3587](https://github.com/avelino/awesome-go/issues/3587) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 🎉 Merged PR [#528](https://github.com/prest/prest/pull/528) in [prest/prest](https://github.com/prest/prest)
+5. 🗣 Commented on [#6](https://github.com/dracula/mailspring/issues/6) in [dracula/mailspring](https://github.com/dracula/mailspring)
+6. 🎉 Merged PR [#525](https://github.com/prest/prest/pull/525) in [prest/prest](https://github.com/prest/prest)
+7. 🎉 Merged PR [#9](https://github.com/dracula/mailspring/pull/9) in [dracula/mailspring](https://github.com/dracula/mailspring)
+8. 💪 Opened PR [#9](https://github.com/dracula/mailspring/pull/9) in [dracula/mailspring](https://github.com/dracula/mailspring)
 <!--END_SECTION:activity-->
 
 ![Metrics](https://metrics.lecoq.io/avelino)
