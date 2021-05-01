@@ -37,14 +37,14 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/golang-standards/project-layout/issues/119) in [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
-2. 🗣 Commented on [#117](https://github.com/golang-standards/project-layout/issues/117) in [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
-3. 🎉 Merged PR [#3586](https://github.com/avelino/awesome-go/pull/3586) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-4. 🗣 Commented on [#3589](https://github.com/avelino/awesome-go/issues/3589) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. 🎉 Merged PR [#529](https://github.com/prest/prest/pull/529) in [prest/prest](https://github.com/prest/prest)
-6. ❗️ Closed issue [#524](https://github.com/prest/prest/issues/524) in [prest/prest](https://github.com/prest/prest)
-7. ❗️ Opened issue [#9](https://github.com/dracula/spec/issues/9) in [dracula/spec](https://github.com/dracula/spec)
-8. 🗣 Commented on [#527](https://github.com/prest/prest/issues/527) in [prest/prest](https://github.com/prest/prest)
+1. 🗣 Commented on [#3590](https://github.com/avelino/awesome-go/issues/3590) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+2. 🗣 Commented on [#119](https://github.com/golang-standards/project-layout/issues/119) in [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
+3. 🗣 Commented on [#117](https://github.com/golang-standards/project-layout/issues/117) in [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
+4. 🎉 Merged PR [#3586](https://github.com/avelino/awesome-go/pull/3586) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. 🗣 Commented on [#3589](https://github.com/avelino/awesome-go/issues/3589) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. 🎉 Merged PR [#529](https://github.com/prest/prest/pull/529) in [prest/prest](https://github.com/prest/prest)
+7. ❗️ Closed issue [#524](https://github.com/prest/prest/issues/524) in [prest/prest](https://github.com/prest/prest)
+8. ❗️ Opened issue [#9](https://github.com/dracula/spec/issues/9) in [dracula/spec](https://github.com/dracula/spec)
 <!--END_SECTION:activity-->
 
 ![Metrics](https://metrics.lecoq.io/avelino)
