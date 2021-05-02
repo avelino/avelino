@@ -37,14 +37,14 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#534](https://github.com/prest/prest/pull/534) in [prest/prest](https://github.com/prest/prest)
-2. ❗️ Opened issue [#3591](https://github.com/avelino/awesome-go/issues/3591) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🎉 Merged PR [#21](https://github.com/avelino/avelino.run/pull/21) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-4. 🎉 Merged PR [#20](https://github.com/avelino/avelino.run/pull/20) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-5. 🗣 Commented on [#3590](https://github.com/avelino/awesome-go/issues/3590) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-6. 🗣 Commented on [#119](https://github.com/golang-standards/project-layout/issues/119) in [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
-7. 🗣 Commented on [#117](https://github.com/golang-standards/project-layout/issues/117) in [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
-8. 🎉 Merged PR [#3586](https://github.com/avelino/awesome-go/pull/3586) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. ❗️ Closed issue [#523](https://github.com/prest/prest/issues/523) in [prest/prest](https://github.com/prest/prest)
+2. 🎉 Merged PR [#2](https://github.com/prest/prest-heroku/pull/2) in [prest/prest-heroku](https://github.com/prest/prest-heroku)
+3. ❗️ Closed issue [#533](https://github.com/prest/prest/issues/533) in [prest/prest](https://github.com/prest/prest)
+4. 🗣 Commented on [#534](https://github.com/prest/prest/issues/534) in [prest/prest](https://github.com/prest/prest)
+5. 🎉 Merged PR [#534](https://github.com/prest/prest/pull/534) in [prest/prest](https://github.com/prest/prest)
+6. ❗️ Opened issue [#3591](https://github.com/avelino/awesome-go/issues/3591) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+7. 🎉 Merged PR [#21](https://github.com/avelino/avelino.run/pull/21) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+8. 🎉 Merged PR [#20](https://github.com/avelino/avelino.run/pull/20) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
 <!--END_SECTION:activity-->
 
 ![Metrics](https://metrics.lecoq.io/avelino)
