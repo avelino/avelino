@@ -37,14 +37,14 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3591](https://github.com/avelino/awesome-go/issues/3591) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. 🎉 Merged PR [#21](https://github.com/avelino/avelino.run/pull/21) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-3. 🎉 Merged PR [#20](https://github.com/avelino/avelino.run/pull/20) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-4. 🗣 Commented on [#3590](https://github.com/avelino/awesome-go/issues/3590) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. 🗣 Commented on [#119](https://github.com/golang-standards/project-layout/issues/119) in [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
-6. 🗣 Commented on [#117](https://github.com/golang-standards/project-layout/issues/117) in [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
-7. 🎉 Merged PR [#3586](https://github.com/avelino/awesome-go/pull/3586) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-8. 🗣 Commented on [#3589](https://github.com/avelino/awesome-go/issues/3589) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. 🎉 Merged PR [#534](https://github.com/prest/prest/pull/534) in [prest/prest](https://github.com/prest/prest)
+2. ❗️ Opened issue [#3591](https://github.com/avelino/awesome-go/issues/3591) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 🎉 Merged PR [#21](https://github.com/avelino/avelino.run/pull/21) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+4. 🎉 Merged PR [#20](https://github.com/avelino/avelino.run/pull/20) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+5. 🗣 Commented on [#3590](https://github.com/avelino/awesome-go/issues/3590) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. 🗣 Commented on [#119](https://github.com/golang-standards/project-layout/issues/119) in [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
+7. 🗣 Commented on [#117](https://github.com/golang-standards/project-layout/issues/117) in [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
+8. 🎉 Merged PR [#3586](https://github.com/avelino/awesome-go/pull/3586) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
 ![Metrics](https://metrics.lecoq.io/avelino)
