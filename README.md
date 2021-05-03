@@ -37,14 +37,14 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3592](https://github.com/avelino/awesome-go/issues/3592) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. ❗️ Closed issue [#523](https://github.com/prest/prest/issues/523) in [prest/prest](https://github.com/prest/prest)
-3. 🎉 Merged PR [#2](https://github.com/prest/prest-heroku/pull/2) in [prest/prest-heroku](https://github.com/prest/prest-heroku)
-4. ❗️ Closed issue [#533](https://github.com/prest/prest/issues/533) in [prest/prest](https://github.com/prest/prest)
-5. 🗣 Commented on [#534](https://github.com/prest/prest/issues/534) in [prest/prest](https://github.com/prest/prest)
-6. 🎉 Merged PR [#534](https://github.com/prest/prest/pull/534) in [prest/prest](https://github.com/prest/prest)
-7. ❗️ Opened issue [#3591](https://github.com/avelino/awesome-go/issues/3591) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-8. 🎉 Merged PR [#21](https://github.com/avelino/avelino.run/pull/21) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+1. 💪 Opened PR [#2324](https://github.com/Foundry376/Mailspring/pull/2324) in [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)
+2. 🗣 Commented on [#3592](https://github.com/avelino/awesome-go/issues/3592) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. ❗️ Closed issue [#523](https://github.com/prest/prest/issues/523) in [prest/prest](https://github.com/prest/prest)
+4. 🎉 Merged PR [#2](https://github.com/prest/prest-heroku/pull/2) in [prest/prest-heroku](https://github.com/prest/prest-heroku)
+5. ❗️ Closed issue [#533](https://github.com/prest/prest/issues/533) in [prest/prest](https://github.com/prest/prest)
+6. 🗣 Commented on [#534](https://github.com/prest/prest/issues/534) in [prest/prest](https://github.com/prest/prest)
+7. 🎉 Merged PR [#534](https://github.com/prest/prest/pull/534) in [prest/prest](https://github.com/prest/prest)
+8. ❗️ Opened issue [#3591](https://github.com/avelino/awesome-go/issues/3591) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
 ![Metrics](https://metrics.lecoq.io/avelino)
