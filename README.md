@@ -37,14 +37,14 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3597](https://github.com/avelino/awesome-go/issues/3597) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. ❗️ Opened issue [#3596](https://github.com/avelino/awesome-go/issues/3596) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🗣 Commented on [#3594](https://github.com/avelino/awesome-go/issues/3594) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-4. 🗣 Commented on [#3593](https://github.com/avelino/awesome-go/issues/3593) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. 💪 Opened PR [#2324](https://github.com/Foundry376/Mailspring/pull/2324) in [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)
-6. 🗣 Commented on [#3592](https://github.com/avelino/awesome-go/issues/3592) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-7. ❗️ Closed issue [#523](https://github.com/prest/prest/issues/523) in [prest/prest](https://github.com/prest/prest)
-8. 🎉 Merged PR [#2](https://github.com/prest/prest-heroku/pull/2) in [prest/prest-heroku](https://github.com/prest/prest-heroku)
+1. 🗣 Commented on [#3598](https://github.com/avelino/awesome-go/issues/3598) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+2. 🗣 Commented on [#3597](https://github.com/avelino/awesome-go/issues/3597) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. ❗️ Opened issue [#3596](https://github.com/avelino/awesome-go/issues/3596) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 🗣 Commented on [#3594](https://github.com/avelino/awesome-go/issues/3594) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. 🗣 Commented on [#3593](https://github.com/avelino/awesome-go/issues/3593) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. 💪 Opened PR [#2324](https://github.com/Foundry376/Mailspring/pull/2324) in [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)
+7. 🗣 Commented on [#3592](https://github.com/avelino/awesome-go/issues/3592) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+8. ❗️ Closed issue [#523](https://github.com/prest/prest/issues/523) in [prest/prest](https://github.com/prest/prest)
 <!--END_SECTION:activity-->
 
 ![Metrics](https://metrics.lecoq.io/avelino)
