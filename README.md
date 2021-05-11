@@ -12,7 +12,7 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Find me elsewhere 🌎
 
 [🚀: Site](https://avelino.run) <br>
-[📸: Instagram](https://instagram.com/avelinorun) - _good dream is dream lived, triathlete 🏊‍♂️ 🚴‍♂️ 🏃‍♂️ _ <br>
+[📸: Instagram](https://instagram.com/avelinorun) - _good dream is dream lived, triathlete 🏊‍♂️ 🚴‍♂️ 🏃‍♂️_ <br>
 [🐦: Twitter](https://twitter.com/avelinorun) <br>
 [💼: LinkedIn](https://www.linkedin.com/in/avelinorun) <br>
 [📫: t AT avelino DOT xxx](mailto:t+github@avelino.xxx)
