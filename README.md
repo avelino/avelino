@@ -37,14 +37,14 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#380](https://github.com/editor-bootstrap/vim-bootstrap/pull/380) in [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap)
-2. 🗣 Commented on [#3599](https://github.com/avelino/awesome-go/issues/3599) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-3. 🗣 Commented on [#3598](https://github.com/avelino/awesome-go/issues/3598) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-4. 🗣 Commented on [#3597](https://github.com/avelino/awesome-go/issues/3597) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-5. ❗️ Opened issue [#3596](https://github.com/avelino/awesome-go/issues/3596) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-6. 🗣 Commented on [#3594](https://github.com/avelino/awesome-go/issues/3594) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-7. 🗣 Commented on [#3593](https://github.com/avelino/awesome-go/issues/3593) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-8. 💪 Opened PR [#2324](https://github.com/Foundry376/Mailspring/pull/2324) in [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)
+1. 🎉 Merged PR [#535](https://github.com/prest/prest/pull/535) in [prest/prest](https://github.com/prest/prest)
+2. 🎉 Merged PR [#380](https://github.com/editor-bootstrap/vim-bootstrap/pull/380) in [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap)
+3. 🗣 Commented on [#3599](https://github.com/avelino/awesome-go/issues/3599) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. 🗣 Commented on [#3598](https://github.com/avelino/awesome-go/issues/3598) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. 🗣 Commented on [#3597](https://github.com/avelino/awesome-go/issues/3597) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. ❗️ Opened issue [#3596](https://github.com/avelino/awesome-go/issues/3596) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+7. 🗣 Commented on [#3594](https://github.com/avelino/awesome-go/issues/3594) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+8. 🗣 Commented on [#3593](https://github.com/avelino/awesome-go/issues/3593) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
 ![Metrics](https://metrics.lecoq.io/avelino)
