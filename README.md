@@ -37,14 +37,14 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/prest/prest/issues/239) in [prest/prest](https://github.com/prest/prest)
-2. 🗣 Commented on [#536](https://github.com/prest/prest/issues/536) in [prest/prest](https://github.com/prest/prest)
-3. 🎉 Merged PR [#535](https://github.com/prest/prest/pull/535) in [prest/prest](https://github.com/prest/prest)
-4. 🎉 Merged PR [#380](https://github.com/editor-bootstrap/vim-bootstrap/pull/380) in [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap)
-5. 🗣 Commented on [#3599](https://github.com/avelino/awesome-go/issues/3599) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-6. 🗣 Commented on [#3598](https://github.com/avelino/awesome-go/issues/3598) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-7. 🗣 Commented on [#3597](https://github.com/avelino/awesome-go/issues/3597) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-8. ❗️ Opened issue [#3596](https://github.com/avelino/awesome-go/issues/3596) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. 🗣 Commented on [#3386](https://github.com/avelino/awesome-go/issues/3386) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+2. 🗣 Commented on [#3339](https://github.com/avelino/awesome-go/issues/3339) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. ❗️ Closed issue [#3308](https://github.com/avelino/awesome-go/issues/3308) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+4. ❗️ Closed issue [#2649](https://github.com/avelino/awesome-go/issues/2649) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+5. ❗️ Closed issue [#1931](https://github.com/avelino/awesome-go/issues/1931) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+6. ❗️ Closed issue [#3437](https://github.com/avelino/awesome-go/issues/3437) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+7. 🗣 Commented on [#3437](https://github.com/avelino/awesome-go/issues/3437) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+8. ❗️ Closed issue [#3481](https://github.com/avelino/awesome-go/issues/3481) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
 ![Metrics](https://metrics.lecoq.io/avelino)
