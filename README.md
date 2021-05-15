@@ -20,11 +20,11 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Latest Blog Posts 📕
 
 <!-- BLOG:START -->
+- [Observar nossa vida pela janela também é importante](https://avelino.run/observar-nossa-vida-pela-janela-tambem-e-importante/)
 - [O combinado não sai caro: 'Mentir pra si mesmo é sempre a pior mentira'](https://avelino.run/o-combinado-nao-sai-caro-mentir-pra-si-mesmo-e-sempre-a-pior-mentira/)
 - [Configurando limite de recursos em aplicações Java (JVM) no Kubernetes](https://avelino.run/configurando-limite-de-recursos-em-aplicacoes-java-jvm-no-kubernetes/)
 - [Falar sobre 'Assuntos Difíceis'](https://avelino.run/falar-sobre-assuntos-dif%C3%ADceis/)
 - [DevHealthy - Episódio 22: 110kg a menos, rotina de treino, triathlon e pôs COVID19](https://avelino.run/quote/lifestyle/devhealthy-22-podcast-110kg-a-menos-triathlon-pos-covid/)
-- [Living our dream should be our priority](https://avelino.run/quote/lifestyle/living-our-dream-should-be-our-priority/)
 <!-- BLOG:END -->
 <!-- DEVTO:START -->
 - [Full Text Search in PostgreSQL](https://dev.to/prestd/full-text-search-in-postgresql-4k6e)
