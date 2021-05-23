@@ -37,14 +37,14 @@ CPO at [@Soluevo](https://soluevo.com.br/)
 ### Recent open source contributions 👨‍💻
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3606](https://github.com/avelino/awesome-go/issues/3606) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. 🎉 Merged PR [#541](https://github.com/prest/prest/pull/541) in [prest/prest](https://github.com/prest/prest)
-3. 🎉 Merged PR [#538](https://github.com/prest/prest/pull/538) in [prest/prest](https://github.com/prest/prest)
-4. 🎉 Merged PR [#539](https://github.com/prest/prest/pull/539) in [prest/prest](https://github.com/prest/prest)
-5. 🎉 Merged PR [#540](https://github.com/prest/prest/pull/540) in [prest/prest](https://github.com/prest/prest)
-6. 🎉 Merged PR [#25](https://github.com/avelino/avelino.run/pull/25) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
-7. 🗣 Commented on [#3339](https://github.com/avelino/awesome-go/issues/3339) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
-8. ❌ Closed PR [#24](https://github.com/avelino/avelino.run/pull/24) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+1. ❗️ Opened issue [#3607](https://github.com/avelino/awesome-go/issues/3607) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+2. 🗣 Commented on [#3606](https://github.com/avelino/awesome-go/issues/3606) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. 🎉 Merged PR [#541](https://github.com/prest/prest/pull/541) in [prest/prest](https://github.com/prest/prest)
+4. 🎉 Merged PR [#538](https://github.com/prest/prest/pull/538) in [prest/prest](https://github.com/prest/prest)
+5. 🎉 Merged PR [#539](https://github.com/prest/prest/pull/539) in [prest/prest](https://github.com/prest/prest)
+6. 🎉 Merged PR [#540](https://github.com/prest/prest/pull/540) in [prest/prest](https://github.com/prest/prest)
+7. 🎉 Merged PR [#25](https://github.com/avelino/avelino.run/pull/25) in [avelino/avelino.run](https://github.com/avelino/avelino.run)
+8. 🗣 Commented on [#3339](https://github.com/avelino/awesome-go/issues/3339) in [avelino/awesome-go](https://github.com/avelino/awesome-go)
 <!--END_SECTION:activity-->
 
 ![Metrics](https://metrics.lecoq.io/avelino)
