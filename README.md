@@ -4,7 +4,7 @@ CEO at [prestd](https://github.com/prest/prest)
 
 ### What I'm working on 👨‍💻
 
-[🐘: pREST](https://github.com/prest/prest) - _**PostgreSQL + REST**, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new_<br />
+[🐘: prestd](https://github.com/prest/prest) - _**PostgreSQL + REST**, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new_<br />
 [📝: vim-bootstrap](https://vim-bootstrap.com) - _generator provides a simple method of generating a **.vimrc** configuration for vim_
 
 ### Find me elsewhere 🌎
