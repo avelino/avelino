@@ -1,6 +1,6 @@
 ### Hey, I'm Avelino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> !
 
-CEO at [prestd](https://github.com/prest/prest)
+co-founder at [prestd](https://github.com/prest/prest)
 
 ### What I'm working on 👨‍💻
 
