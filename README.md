@@ -2,8 +2,9 @@
 
 ### What I'm working on 👨‍💻
 
-[🐘: prestd](https://github.com/prest/prest) - _**PostgreSQL + REST**, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new_<br />
-[📝: vim-bootstrap](https://vim-bootstrap.com) - _generator provides a simple method of generating a **.vimrc** configuration for vim_
+[λ: moclojer](https://github.com/avelino/moclojer) - Simple and efficient HTTP mock server with specification in `yaml`<br />
+[λ: chrondb](https://github.com/chrondb/chrondb) - **Chronological & Imutavel** _key/value_ Database storing based on database-shaped **git** (core) architecture<br />
+[🐘: prestd](https://github.com/prest/prest) - _**PostgreSQL + REST**, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new_
 
 ### Find me elsewhere 🌎
 
