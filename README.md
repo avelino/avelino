@@ -10,6 +10,7 @@ I use [monotropic](https://github.com/avelino/monotropic-theme-vscode) editor th
 ### Find me elsewhere 🌎
 
 [🚀: Site](https://avelino.run) <br>
+[🐘: mastodon](https://mastodon.social/@avelino)
 [🐦: Twitter](https://twitter.com/avelinorun) <br>
 [💼: LinkedIn](https://www.linkedin.com/in/avelinorun) <br>
 [📸: Instagram](https://instagram.com/avelinorun) - _good dream is dream lived, triathlete 🏊‍♂️ 🚴‍♂️ 🏃‍♂️_
