@@ -14,4 +14,4 @@
 [📸: Instagram](https://instagram.com/avelinorun) - _good dream is dream lived, triathlete 🏊‍♂️ 🚴‍♂️ 🏃‍♂️_
 
 
-[![Avelino profile views](https://u8views.com/api/v1/github/profiles/31996/views/day-week-month-total-count.svg)](https://u8views.com/github/avelino)
+[![Avelino profile views](https://u8views.com/api/v1/github/profiles/31996/views/pixel.svg)](https://u8views.com/github/avelino)
