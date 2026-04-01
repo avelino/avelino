@@ -1,9 +1,8 @@
 ### Hey, I'm Avelino <a href="https://github.com/avelino"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>!
 
 CTO & CPO at [Buser](https://github.com/buserbrasil) — Brazil's largest collaborative charter bus platform.
+General Partner at [The Samba Capital](https://thesamba.capital) — seed-stage VC backed by the Avelino family office.
 Open source engineer. Builder.
-
-Previously: Google, Twitter.
 
 Go is my main language. I also ship in Rust and Clojure when the problem demands it.
 I run production systems at scale and still merge my own PRs.
